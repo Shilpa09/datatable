@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <link href="app.css" rel="stylesheet" />
+
+    <script src="https://use.fontawesome.com/8175738665.js"></script>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+</head>
+
+<body>
+    <header>
+        <h1 id="headerText" class="col-sm-12">Data Table Demo </h1>
+    </header>
+
+    <div id="columnvisibility" class="col-xs-6 col-sm-6 col-md-8">
+      <input type="text" id="colHide" placeholder="Enter Column Name" />
+      <button class="btn btn-primary" onclick="dataTable.setColumnVisibility(true, colHide.value)">Show Column</button>
+      <button class="btn btn-danger" onclick="dataTable.setColumnVisibility(false, colHide.value)">Hide Column</button>
+    </div>
+
+    <div id="search" class="col-xs-6 col-sm-6 col-offset-md-1 col-md-3">
+        <i class="icon-inside fa fa-search" aria-hidden="true"></i>
+        <input type="text" id="searchInput" onkeyup="dataTable.search()" placeholder="Search Table" />
+    </div>
+    <div id="appWrapper"></div>
+
+    <footer>
+        <div id="paging">
+            <button id="prev" class="btn btn-primary" onclick="dataTable.prevPage()?this.disabled=false:this.disabled=true;next.disabled=false" disabled>Prev Page</button>
+            <button id="next" class="btn btn-primary" onclick="dataTable.nextPage()?this.disabled=false:this.disabled=true;prev.disabled=false">Next Page</button>
+        </div>
+    </footer>
+
+    <div id="appWrapper2"></div>
+
+    <script type="text/javascript" src="dataSource.js">
+    </script>
+    <script type="text/javascript" src="dataTable.js">
+    </script>
+    <script type="text/javascript" src="app.js">
+    </script>
+</body>
+
+</html>

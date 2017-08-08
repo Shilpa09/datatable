@@ -1,0 +1,175 @@
+[{
+    "id": 1,
+    "title": "Developer",
+    "name": "Dave Finn",
+    "region": "CA",
+    "phone#": "408-1234567"
+},
+{
+    "id": 2,
+    "title": "Analyst II",
+    "name": "Paggy Jcobson",
+    "region": "TX",
+    "phone#": "408-1111111"
+},
+{
+    "id": 3,
+    "title": "Program Directory",
+    "name": "Tom Hanks",
+    "region": "NC",
+    "phone#": "408-2222222"
+},
+{
+    "id": 4,
+    "title": "Analyst",
+    "name": "Romin Irani",
+    "region": "SC",
+    "phone#": "408-2345678"
+},
+{
+    "id": 5,
+    "title": "Developer",
+    "name": "Neil Irani",
+    "region": "KA",
+    "phone#": "408-2341111"
+},
+{
+    "id": 6,
+    "title": "Programmer",
+    "name": "Bradley Mills",
+    "region": "AZ",
+    "phone#": "408-2278922"
+},
+{
+    "id": 7,
+    "title": "Tester",
+    "name": "Darin Callaway",
+    "region": "UT",
+    "phone#": "408-1000567"
+},
+{
+    "id": 8,
+    "title": "Tester",
+    "name": "Shaks grey",
+    "region": "CT",
+    "phone#": "408-1133311"
+},
+{
+    "id": 9,
+    "title": "Program Directory",
+    "name": "Curtis Vansdul",
+    "region": "CA",
+    "phone#": "408-2211222"
+},
+{
+    "id": 10,
+    "title": "Developer",
+    "name": "Vivian Irani",
+    "region": "CT",
+    "phone#": "408-0004567"
+},
+{
+    "id": 11,
+    "title": "Developer",
+    "name": "Gregory House",
+    "region": "WA",
+    "phone#": "408-0000001"
+},
+{
+    "id": 12,
+    "title": "Manager",
+    "name": "Katy Hanks",
+    "region": "PA",
+    "phone#": "408-7652222"
+},
+{
+    "id": 13,
+    "title": "Developer",
+    "name": "Cinthya Henry",
+    "region": "TX",
+    "phone#": "408-1245667"
+},
+{
+    "id": 14,
+    "title": "Designer",
+    "name": "Dariya Cavasos",
+    "region": "TX",
+    "phone#": "408-9999999"
+},
+{
+    "id": 15,
+    "title": "Manager",
+    "name": "Tom Cruis",
+    "region": "LA",
+    "phone#": "408-0987654"
+},
+{
+    "id": 16,
+    "title": "Designer",
+    "name": "Katy Perry",
+    "region": "NY",
+    "phone#": "408-0000000"
+},
+{
+    "id": 17,
+    "title": "Developer",
+    "name": "Hey Me",
+    "region": "FL",
+    "phone#": "408-1230987"
+},
+{
+    "id": 18,
+    "title": "Program Directory",
+    "name": "Benazir Baig",
+    "region": "AL",
+    "phone#": "408-2442222"
+},
+{
+    "id": 19,
+    "title": "Support",
+    "name": "John Kegal",
+    "region": "MO",
+    "phone#": "408-0987567"
+},
+{
+    "id": 20,
+    "title": "Support",
+    "name": "Dave Finni",
+    "region": "OH",
+    "phone#": "408-2111111"
+},
+{
+    "id": 21,
+    "title": "Program Directory",
+    "name": "Cranky Boat",
+    "region": "CA",
+    "phone#": "408-5672222"
+},
+{
+    "id": 22,
+    "title": "Team Lead",
+    "name": "Katy Simson",
+    "region": "PA",
+    "phone#": "408-1652112"
+},
+{
+    "id": 23,
+    "title": "Developer",
+    "name": "Cinthya Garcia",
+    "region": "TX",
+    "phone#": "408-3445667"
+},
+{
+    "id": 24,
+    "title": "Developer",
+    "name": "Kevin Bullok",
+    "region": "TX",
+    "phone#": "408-1999999"
+},
+{
+    "id": 25,
+    "title": "Team Lead",
+    "name": "Monica Cruis",
+    "region": "LA",
+    "phone#": "408-1987654"
+}]
